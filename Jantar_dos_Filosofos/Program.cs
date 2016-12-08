@@ -29,7 +29,7 @@ namespace Jantar_dos_Filosofos
         {
             try
             {
-                Console.WriteLine("===================================== O JANTAR DOS FILÓSOFOS =====================================");
+                Console.WriteLine("===================================== O JANTAR DOS FILÓSOFOS =====================================|");
 
                 Printer.Start();
 
